@@ -27,7 +27,7 @@ View the interactive Power BI Dashboard here:
 - Data cleaning, feature engineering, and visualization
 - Professional-grade dashboard designed with yellow–black theme for NYC
 
-## 📌 Dataset Source
+## Dataset Source
 [NYC TLC Trip Record Data – June 2025](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 ---
