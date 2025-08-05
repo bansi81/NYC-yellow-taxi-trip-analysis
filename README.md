@@ -30,4 +30,11 @@ View the interactive Power BI Dashboard here:
 ## Dataset Source
 [NYC TLC Trip Record Data – June 2025](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
+## Dashboard
+
+🔗 [**Click to View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYzkyZGMxYzMtMjE2Zi00YWFlLWE4NDAtNGI2ZjVjMTRkMGQzIiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9)
+
+<img src="dashboard/dashboard.png" alt="NYC Yellow Taxi Dashboard" width="800"/>
+
+
 ---
